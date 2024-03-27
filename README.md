@@ -30,22 +30,7 @@ QA - manual , на стадии перехода на автоматизации
 
 <p align="left">
 <a href="https://qase.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
-</a>
 
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
-</a>
-
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
-</a>
-
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
-
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" /> 
-</a>
-
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
-</a>
 
 <img src="https://github.com/trentislop/trentislop/blob/main/file/icons/2.png" alt="Firebase" width="50" height="50" /> 
 
