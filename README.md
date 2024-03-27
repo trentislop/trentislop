@@ -11,7 +11,7 @@ QA - manual , на стадии перехода на автоматизации
 ## My CV 
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
 <p align="center">
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_2.jpg"  width="90%" /> 
+<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_2.jpg"  width="70%" /> 
 </p> 
 
 
