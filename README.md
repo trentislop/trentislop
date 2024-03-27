@@ -69,5 +69,4 @@ QA - manual , на стадии перехода на автоматизации
 ## Успешное окончание 
 <p align="center">
 <img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.jpg"  width="50%" />
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_2.jpg"  width="50%" /> 
 </p> 
