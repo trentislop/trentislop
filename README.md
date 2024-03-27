@@ -10,10 +10,7 @@ QA - manual , на стадии перехода на автоматизации
 
 ## My CV 
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
-<p align="center">
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.jpg"  width="50%" />
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_2.jpg"  width="50%" /> 
-</p> 
+
 
 
 
@@ -68,3 +65,9 @@ QA - manual , на стадии перехода на автоматизации
 
 [![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/mnbvcxz_0717/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/trentislop)
+
+## Успешное окончание 
+<p align="center">
+<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.jpg"  width="50%" />
+<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_2.jpg"  width="50%" /> 
+</p> 
