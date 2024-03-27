@@ -10,7 +10,10 @@ QA - manual , на стадии перехода на автоматизации
 
 ## My CV 
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.pdf" alt="Firebase"  width="90%" /> 
+<p align="center">
+<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.pdf"  width="90%" /> 
+</p> 
+
 
 
 
