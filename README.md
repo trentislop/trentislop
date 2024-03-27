@@ -94,7 +94,7 @@ QA - manual , на стадии перехода на автоматизации
 <img src="https://github.com/trentislop/trentislop/blob/main/icons/5.png" alt="Localizely" width="100" height="50" />
 </a>
 <a href="https://https://app.diagrams.net//">
-<img src="https://github.com/trentislop/trentislop/blob/main/icons/6.png" alt="DBeaver" width="50" height="50" />
+<img src="https://github.com/trentislop/trentislop/blob/main/file/icons/6.png" alt="DBeaver" width="50" height="50" />
 </a>
 </p>
 
