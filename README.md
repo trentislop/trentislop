@@ -89,14 +89,12 @@ QA - manual , на стадии перехода на автоматизации
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
 </a>
-<a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
-<a href="https://localizely.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/localizely.png" alt="Localizely" width="100" height="50" />
+<a href="https://replit.com//">
+<img src="https://github.com/trentislop/trentislop/blob/main/icons/5.png" alt="Localizely" width="100" height="50" />
 </a>
-<a href="https://dbeaver.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
+<a href="https://https://app.diagrams.net//">
+<img src="https://github.com/trentislop/trentislop/blob/main/icons/6.png" alt="DBeaver" width="50" height="50" />
 </a>
 </p>
 
