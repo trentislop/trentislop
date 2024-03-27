@@ -9,8 +9,10 @@
 QA - manual , на стадии перехода на автоматизации с использованием Python !
 
 ## My CV 
-
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
+<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.pdf" alt="Firebase"  width="90%" /> 
+
+
 
 ## Портфолио 
 - Тестовая документация
@@ -28,8 +30,6 @@ QA - manual , на стадии перехода на автоматизации
 
 
 <p align="left">
-<a href="https://qase.io/">
-
 
 <img src="https://github.com/trentislop/trentislop/blob/main/file/icons/2.png" alt="Firebase" width="50" height="50" /> 
 
