@@ -11,10 +11,11 @@ QA - manual , на стадии перехода в автоматизацию �
 
 ## Портфолио 
 - Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
+  -  [Тестирование аналитики](https://trublweed.youtrack.cloud/issue/WP-1/Testirovanie-analitiki) 
+  -  [Тестирование форм регистрации и авторизации](https://trublweed.youtrack.cloud/issue/WP-18/Testirovanie-formy-registracii-i-avtorizacii)
+  -  [ДСП-схема переходов и состояний](https://trublweed.youtrack.cloud/issue/WP-31/DSP-shema-sostoyanij-i-perehodov)
+  -  [Тестирование UI](https://trublweed.youtrack.cloud/issue/WP-53/Testirovanie-UI)
+  -  [Приемочное тестирование](https://trublweed.youtrack.cloud/issue/WP-124/Priemochnoe-testirovanie)
 - Коллекция в Postman 
   -  [Название проекта](https://ссылочку_сюда)
 - SQL запросы 
