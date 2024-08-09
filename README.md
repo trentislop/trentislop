@@ -60,5 +60,6 @@ QA - manual , на стадии перехода в автоматизацию �
 ## Успешное окончание 
 <p align="center">
   <img src="https://github.com/trentislop/trentislop/blob/main/file/img/Sert_SkillBox.png"  width="50%" />
-<img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.jpg"  width="50%" />
+  <img src="https://github.com/trentislop/trentislop/blob/main/file/img/sert_3.jpg"  width="50%" />
+  <img src="https://github.com/trentislop/trentislop/blob/main/file/img/photo_2024-08-09_15-48-47.jpg" width="50%" /> 
 </p> 
